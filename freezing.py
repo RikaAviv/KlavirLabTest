@@ -13,6 +13,7 @@ speeds = [5.2, 4.8, 0.3, 0.2, 0.1, 6.1, 7.0, 0.6, 0.2,
 # ---- Analysis ----
 print(f"Freezing analysis for {MOUSE_NAME}")
 print(f"Threshold: below {SPEED_THRESHOLD} cm/s counts as frozen\n")
+print(f"Lilian the queen")
 
 frozen_seconds = 0
 for second, speed in enumerate(speeds):
